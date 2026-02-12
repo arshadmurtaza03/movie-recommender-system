@@ -26,7 +26,15 @@ share/python-wheels/
 *.egg
 MANIFEST
 
-data
+#data
+data/
+
+#notebooks
+notebooks/
+
+
+
+
 
 
 
